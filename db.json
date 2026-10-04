@@ -1,0 +1,9 @@
+{
+  "transactions": [
+    { "id": "1", "title": "Monthly salary", "category": "Salary", "type": "income", "amount": 42000, "date": "2026-10-01", "note": "October salary" },
+    { "id": "2", "title": "Groceries", "category": "Food", "type": "expense", "amount": 1850, "date": "2026-10-02", "note": "" },
+    { "id": "3", "title": "Internet bill", "category": "Bills", "type": "expense", "amount": 799, "date": "2026-10-03", "note": "" },
+    { "id": "4", "title": "Freelance design", "category": "Freelance", "type": "income", "amount": 6500, "date": "2026-10-04", "note": "" },
+    { "id": "5", "title": "Coffee", "category": "Food", "type": "expense", "amount": 240, "date": "2026-10-05", "note": "" }
+  ]
+}
